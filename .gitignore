@@ -1,6 +1,7 @@
 # Terraform local files
 .package.json
 .package-lock.json
+.node_modules
 
 # IDE and editor files
 .vscode/
