@@ -1,0 +1,12 @@
+# Terraform local files
+.package.json
+.package-lock.json
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
